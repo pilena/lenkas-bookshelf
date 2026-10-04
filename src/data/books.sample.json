@@ -1,0 +1,134 @@
+[
+  {
+    "id": "s1",
+    "title": "The Name of the Rose",
+    "author": "Umberto Eco",
+    "status": "read",
+    "rating": 5,
+    "pages": 536,
+    "dateRead": "2025-03-14",
+    "review": "Slow, dense, and completely worth it.",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s1"
+  },
+  {
+    "id": "s2",
+    "title": "Pride and Prejudice",
+    "author": "Jane Austen",
+    "status": "read",
+    "rating": 4,
+    "pages": 432,
+    "dateRead": "2024-11-02",
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s2"
+  },
+  {
+    "id": "s3",
+    "title": "Na Drini ćuprija",
+    "author": "Ivo Andrić",
+    "status": "read",
+    "rating": 5,
+    "pages": 314,
+    "dateRead": "2024-06-20",
+    "review": "Sample review text for layout testing.",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s3"
+  },
+  {
+    "id": "s4",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "status": "read",
+    "rating": 4,
+    "pages": 224,
+    "dateRead": "2025-07-01",
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s4"
+  },
+  {
+    "id": "s5",
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "status": "read",
+    "rating": 5,
+    "pages": 417,
+    "dateRead": "2023-12-10",
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s5"
+  },
+  {
+    "id": "s6",
+    "title": "A Short History of Nearly Everything",
+    "author": "Bill Bryson",
+    "status": "read",
+    "rating": 3,
+    "pages": null,
+    "dateRead": "2024-02-18",
+    "review": "This is a deliberately long sample review so we can test how the detail panel handles several lines of text, wrapping, and scrolling. It keeps going for a while so that the layout has something real to chew on, including a second sentence and a third one for good measure.",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s6"
+  },
+  {
+    "id": "s7",
+    "title": "Jonathan Strange & Mr Norrell",
+    "author": "Susanna Clarke",
+    "status": "to-read",
+    "rating": 0,
+    "pages": 1006,
+    "dateRead": null,
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s7"
+  },
+  {
+    "id": "s8",
+    "title": "The Master and Margarita",
+    "author": "Mikhail Bulgakov",
+    "status": "to-read",
+    "rating": 0,
+    "pages": 372,
+    "dateRead": null,
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s8"
+  },
+  {
+    "id": "s9",
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "status": "to-read",
+    "rating": 0,
+    "pages": 272,
+    "dateRead": null,
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s9"
+  },
+  {
+    "id": "s10",
+    "title": "Gödel, Escher, Bach: An Eternal Golden Braid",
+    "author": "Douglas Hofstadter",
+    "status": "to-read",
+    "rating": 0,
+    "pages": 777,
+    "dateRead": null,
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s10"
+  },
+  {
+    "id": "s11",
+    "title": "Infinite Jest",
+    "author": "David Foster Wallace",
+    "status": "dnf",
+    "rating": 2,
+    "pages": 1079,
+    "dateRead": null,
+    "review": "Gave up around page 200.",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s11"
+  },
+  {
+    "id": "s12",
+    "title": "Moby-Dick; or, The Whale",
+    "author": "Herman Melville",
+    "status": "dnf",
+    "rating": 0,
+    "pages": 635,
+    "dateRead": null,
+    "review": null,
+    "goodreadsUrl": "https://www.goodreads.com/book/show/s12"
+  }
+]
